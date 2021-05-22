@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.com/dropdown-menu/static/css/main.f930f158.chunk.css",
-    "main.js": "/github.com/dropdown-menu/static/js/main.b8283e9d.chunk.js",
-    "main.js.map": "/github.com/dropdown-menu/static/js/main.b8283e9d.chunk.js.map",
-    "runtime-main.js": "/github.com/dropdown-menu/static/js/runtime-main.dba40cb3.js",
-    "runtime-main.js.map": "/github.com/dropdown-menu/static/js/runtime-main.dba40cb3.js.map",
-    "static/js/2.358e24e8.chunk.js": "/github.com/dropdown-menu/static/js/2.358e24e8.chunk.js",
-    "static/js/2.358e24e8.chunk.js.map": "/github.com/dropdown-menu/static/js/2.358e24e8.chunk.js.map",
-    "index.html": "/github.com/dropdown-menu/index.html",
-    "static/css/main.f930f158.chunk.css.map": "/github.com/dropdown-menu/static/css/main.f930f158.chunk.css.map",
-    "static/js/2.358e24e8.chunk.js.LICENSE.txt": "/github.com/dropdown-menu/static/js/2.358e24e8.chunk.js.LICENSE.txt"
+    "main.css": "/dropdown-menu/static/css/main.f930f158.chunk.css",
+    "main.js": "/dropdown-menu/static/js/main.b8283e9d.chunk.js",
+    "main.js.map": "/dropdown-menu/static/js/main.b8283e9d.chunk.js.map",
+    "runtime-main.js": "/dropdown-menu/static/js/runtime-main.8c86a641.js",
+    "runtime-main.js.map": "/dropdown-menu/static/js/runtime-main.8c86a641.js.map",
+    "static/js/2.358e24e8.chunk.js": "/dropdown-menu/static/js/2.358e24e8.chunk.js",
+    "static/js/2.358e24e8.chunk.js.map": "/dropdown-menu/static/js/2.358e24e8.chunk.js.map",
+    "index.html": "/dropdown-menu/index.html",
+    "static/css/main.f930f158.chunk.css.map": "/dropdown-menu/static/css/main.f930f158.chunk.css.map",
+    "static/js/2.358e24e8.chunk.js.LICENSE.txt": "/dropdown-menu/static/js/2.358e24e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dba40cb3.js",
+    "static/js/runtime-main.8c86a641.js",
     "static/js/2.358e24e8.chunk.js",
     "static/css/main.f930f158.chunk.css",
     "static/js/main.b8283e9d.chunk.js"
