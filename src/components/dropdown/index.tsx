@@ -1,12 +1,12 @@
 import React, { FC, MouseEventHandler } from "react";
 import { DropDownList } from "../dropdownlist";
 
-interface DropDownProps {
+interface IDropDownProps {
   show: Boolean;
   handleShow: MouseEventHandler<HTMLButtonElement>;
 }
 
-const DropDown: FC<DropDownProps> = ({ show, handleShow }) => {
+const DropDown: FC<IDropDownProps> = ({ show, handleShow }) => {
   return (
     <>
       <button className="btn" onClick={handleShow}>
