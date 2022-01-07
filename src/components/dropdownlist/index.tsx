@@ -27,7 +27,7 @@ const DropDownList = () => {
           key={link}
           onClick={highlightActiveOption}
         >
-          <a href="./">{link}</a>
+          <a href="/#">{link}</a>
         </li>
       ))}
     </ul>
